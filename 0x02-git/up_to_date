@@ -1,0 +1,12 @@
+# The git command line
+git init
+git add
+git commit -m
+git add remote
+git pull
+git push -u
+git checkout
+git checkout -b
+git branch
+git clone
+git --help
